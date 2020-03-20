@@ -1,7 +1,7 @@
 # Hello-BTS
 My 1st repository
 
-Hi guy, I'm Sophie Guo from China. I am also a fan of BTS(a famous korean boy band) named Army. 
+Hi guys, I'm Sophie Guo from China. I am also a fan of BTS(a famous korean boy band) named Army. 
 
 I'm here for my graduation thesis.
 
